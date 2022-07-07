@@ -58,13 +58,16 @@ input{
     text-align: center;
     line-height: 120px;
 }
+
 #other-amount{
     width: 500px;
     border: 2px solid white;
     border-bottom: 2px solid gray;
     margin: 50px 0px;;
 }
-
+.selected-amount{
+    border: 5px solid purple !important;
+}
 #section-other-donation-plan{
     text-align: center;
 }
